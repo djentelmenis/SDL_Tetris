@@ -2,7 +2,7 @@
 Tetris written in C++ using SDL2
 
 ![Screenshot:](
-https://i.imgur.com/ipmQMzA.jpg)
+https://i.imgur.com/a0zNvLC.png)
 
 # Work in progress
 Created to teach myself OOP and the SDL framework
